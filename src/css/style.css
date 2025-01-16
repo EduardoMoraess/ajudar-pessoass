@@ -145,7 +145,32 @@ h3{
     text-transform: uppercase;
 }
 
+.res2{
+    text-align: center;
+    font-size: 1.2rem;
+    color:black;
+
+    padding: 10px;
+    text-transform: uppercase;
+}
+
 .exp{
     font-size: 1.3rem;
     color: #fff;
+}
+
+.pintura{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+
+    background-color: var(--letra-1);
+    width: 80%;
+    height: auto;
+    border-radius: 30px;
+    padding: 20px;
+
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.586);
 }
