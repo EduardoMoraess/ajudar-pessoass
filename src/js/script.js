@@ -34,7 +34,7 @@ function pintura() {
         e tem a area de ${area}`
 
         resultado2.innerHTML = `Para pintar essa parede 
-        voce  precisará de ${tinta.toFixed(2)}l de tinta `
+        voce  precisará de ${tinta.toFixed(2)}l de tinta`
     })
 
 }
