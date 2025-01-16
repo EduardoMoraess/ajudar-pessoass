@@ -13,5 +13,3 @@ function conversor_money() {
     });
 }
 conversor_money()
-
-//pintar casa
